@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | [0088-merge-sorted-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

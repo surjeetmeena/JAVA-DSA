@@ -1,26 +1,25 @@
-class Solution { //sliding window array
+class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
-        int sum=0;
-        int average=0;
-        int count=0;
-        for(int i=0; i<k; i++){
-            sum+=arr[i];
+        int sum = 0;
+        int count = 0;
+        for (int i = 0; i < k; i++) {
+            sum = sum + arr[i];
+
         }
-        average=sum/k;
-        if(average>=threshold){
+        int avg = sum / k;
+        if (avg >= threshold) {
             count++;
         }
-        int low=1;
         int high=k;
-        int n=arr.length;
-        while(high<n){
+        int low=1;
+        while(high<arr.length){
             sum=sum+arr[high]-arr[low-1];
-             average=sum/k;
-            if(average>=threshold){
+            avg=sum/k;
+            if(avg>=threshold){
                 count++;
             }
-            low++;
-            high++;
+                low++;
+                high++;
         }
         return count;
 

@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +71,8 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->

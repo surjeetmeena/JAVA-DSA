@@ -1,21 +1,27 @@
-class Solution { //array sliding window
+class Solution {
     public double findMaxAverage(int[] nums, int k) {
         int sum=0;
+    
         for(int i=0; i<k; i++){
             sum=sum+nums[i];
+           // avg=sum/k;
+
 
         }
-        int maxSum=sum;
-        int low=1;
+        int n=nums.length;
         int high=k;
-        while(high<nums.length){
-            sum=sum+nums[high]-nums[low-1];
-            maxSum=Math.max(maxSum,sum);
-            low++;
+        int low=1;
+        int max=sum;
+        int current=sum;
+        while(high<n){
+            
+           current =current+nums[high]-nums[low-1];
+            max=Math.max(max,current);
+          
             high++;
-
+            low++;
         }
-        return (double)maxSum/k;
         
+        return (double)max/k;
     }
 }

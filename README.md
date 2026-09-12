@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
@@ -43,6 +44,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -79,4 +82,5 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->

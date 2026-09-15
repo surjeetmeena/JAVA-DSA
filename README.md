@@ -22,6 +22,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
@@ -85,6 +86,7 @@
 | [0303-range-sum-query-immutable](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

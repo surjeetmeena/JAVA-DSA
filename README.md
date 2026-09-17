@@ -25,6 +25,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -110,4 +111,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->

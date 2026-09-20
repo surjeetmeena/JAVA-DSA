@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0027-remove-element/) | Easy |
+| [0048-rotate-image](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -71,6 +72,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -118,6 +120,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |

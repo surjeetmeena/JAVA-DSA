@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -116,6 +118,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |

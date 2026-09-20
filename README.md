@@ -32,6 +32,7 @@
 | [1672-richest-customer-wealth](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | [0217-contains-duplicate](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,10 +110,16 @@
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 <!---LeetCode Topics End-->

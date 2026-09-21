@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0867-transpose-matrix/) | Easy |
@@ -59,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Sorting

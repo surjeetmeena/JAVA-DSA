@@ -59,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -145,4 +146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->

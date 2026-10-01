@@ -92,6 +92,7 @@
 | [0066-plus-one](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +153,9 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0344-reverse-string/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->

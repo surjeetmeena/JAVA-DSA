@@ -157,6 +157,7 @@
 | [0125-valid-palindrome](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -166,4 +167,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->

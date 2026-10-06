@@ -51,6 +51,7 @@
 | [0073-set-matrix-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0205-isomorphic-strings](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
@@ -84,6 +85,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -156,6 +158,7 @@
 | [0014-longest-common-prefix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |

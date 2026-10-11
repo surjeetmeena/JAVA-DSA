@@ -55,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0771-jewels-and-stones](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@
 | [0205-isomorphic-strings](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0344-reverse-string/) | Easy |
+| [0771-jewels-and-stones](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0796-rotate-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |

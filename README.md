@@ -67,6 +67,7 @@
 | [0189-rotate-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0344-reverse-string/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surjeetmeena/JAVA-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
@@ -166,6 +167,7 @@
 | [0205-isomorphic-strings](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0344-reverse-string/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0796-rotate-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1768-merge-strings-alternately/) | Easy |

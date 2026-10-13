@@ -49,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0205-isomorphic-strings](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -97,6 +98,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -161,6 +163,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0125-valid-palindrome/) | Easy |

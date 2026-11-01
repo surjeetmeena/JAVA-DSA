@@ -60,6 +60,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -124,6 +125,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -164,6 +166,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0014-longest-common-prefix/) | Easy |
@@ -206,4 +209,8 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->

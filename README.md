@@ -105,6 +105,7 @@
 | [0066-plus-one](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/surjeetmeena/JAVA-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
@@ -129,6 +130,7 @@
 | [0053-maximum-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +215,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

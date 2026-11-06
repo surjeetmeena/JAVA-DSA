@@ -1,12 +1,13 @@
-class Solution {//2d array basic 
+class Solution {
     public int[][] transpose(int[][] matrix) {
-        int ans[][] = new int[matrix[0].length][matrix.length];
-        for (int j = 0; j < matrix.length; j++) {
-            for (int i = 0; i < matrix[j].length; i++) {
-                ans[i][j] = matrix[j][i];
-
+        int row=matrix.length;
+        int col=matrix[0].length;
+        int [][]arr=new int[col][row];
+        for(int i=0; i<row; i++){
+            for(int j=0; j<col; j++){
+                arr[j][i]=matrix[i][j];
             }
         }
-        return ans;
+        return arr;
     }
 }

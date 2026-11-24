@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -115,6 +116,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -230,4 +232,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/surjeetmeena/JAVA-DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
